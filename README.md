@@ -8,7 +8,7 @@
 
 ## Seção 1
 - [x] Capítulo 1
-- [ ] Capítulo 2
+- [x] Capítulo 2
 ## Seção 2
 - [ ] Capítulo 3
 ## Seção 3
