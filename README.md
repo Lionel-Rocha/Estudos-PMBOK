@@ -25,7 +25,7 @@
 # Cursos indicados
 
 ## Alura
-- [ ] Governança de TI: alinhamento estratégico
+- [x] Governança de TI: alinhamento estratégico
 - [ ] Governança de TI: modelo de gestão, arquitetura e inovação
 - [ ] Governança de TI: conheça os fundamentos da gestão de portfólios
 - [ ] Governança de TI: gerencie serviços e fortaleça a segurança
