@@ -10,7 +10,7 @@
 - [x] Capítulo 1
 - [x] Capítulo 2
 ## Seção 2
-- [ ] Capítulo 3
+- [x] Capítulo 3
 ## Seção 3
 - [ ] Capítulo 4
 - [ ] Capítulo 5
