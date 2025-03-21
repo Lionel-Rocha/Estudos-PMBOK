@@ -34,4 +34,5 @@
 - [ ] Governança de TI: Gestão de Mudanças Organizacionais e de TI
 - [ ] Governança de TI: a importância da Gestão do Conhecimento
 
- 
+ ## YouTube
+ [Playlist](https://www.youtube.com/playlist?list=PLjbjk2T3LbWyoyV75xAVX7dqQirAkSGzs)
