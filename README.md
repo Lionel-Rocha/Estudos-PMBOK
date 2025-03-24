@@ -26,7 +26,7 @@
 
 ## Alura
 - [x] Governança de TI: alinhamento estratégico
-- [ ] Governança de TI: modelo de gestão, arquitetura e inovação
+- [x] Governança de TI: modelo de gestão, arquitetura e inovação
 - [ ] Governança de TI: conheça os fundamentos da gestão de portfólios
 - [ ] Governança de TI: gerencie serviços e fortaleça a segurança
 - [ ] Governança de TI: gestão de programas, projetos e produtos
