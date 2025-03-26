@@ -28,7 +28,7 @@
 - [x] Governança de TI: alinhamento estratégico
 - [x] Governança de TI: modelo de gestão, arquitetura e inovação
 - [x] Governança de TI: conheça os fundamentos da gestão de portfólios
-- [ ] Governança de TI: gerencie serviços e fortaleça a segurança
+- [x] Governança de TI: gerencie serviços e fortaleça a segurança
 - [ ] Governança de TI: gestão de programas, projetos e produtos
 - [ ] Governança de TI: Gestão de Requisitos no Contexto Ágil
 - [ ] Governança de TI: Gestão de Mudanças Organizacionais e de TI
