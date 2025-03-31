@@ -1,4 +1,4 @@
-# **Frameworks de Gestão**
+# **Governança de TI: modelo de gestão, arquitetura e inovação**
 
 ## **Níveis de Planejamento**
 O planejamento organizacional pode ser subdividido em diferentes níveis, cada um com um propósito distinto e focado em horizontes temporais variados. Esses níveis incluem:
