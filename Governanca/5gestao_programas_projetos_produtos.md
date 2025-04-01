@@ -102,3 +102,16 @@ A gestão de pessoas em TI envolve a administração das habilidades e competên
   
 A gestão de desenvolvimento terceirizado envolve o trabalho com fornecedores externos ou prestadores de serviços para desenvolver ou manter sistemas de TI. A governança de TI deve garantir que os contratos com fornecedores sejam bem gerenciados, que os riscos sejam monitorados e que as expectativas do negócio sejam atendidas.
 
+## Dicas e boas práticas
+
+➥ **Definir documentos mínimos**, apenas os obrigatórios, que não atrapalhem ninguém e sejam realmente úteis;
+
+➥ **Disponibilizar documentos sugeridos**, como modelos, padrões e exemplos que sirvam de apoio ao desenvolvimento;
+
+➥ **FAQ**, ou seja, responder de antemão as perguntas mais frequentes para todos os processos, num documento conciso e sempre atualizado;
+
+➥ **Dosar "pedágios"**, ou seja, entender até que ponto podemos estabelecer as aferições sem atrapalhar o dia a dia.
+
+> O time de governaça deve ter a preocupação de não atrapalhar o andamento do dia a dia, mesmo mantendo controles e criando tecnologias de monitoramento.
+
+
