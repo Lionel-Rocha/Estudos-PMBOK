@@ -14,13 +14,10 @@
 ## Seção 3
 - [x] Capítulo 4
 - [x] Capítulo 5
-- [ ] Capítulo 6
-- [ ] Capítulo 7
+- [x] Capítulo 6
+- [x] Capítulo 7
 - [ ] Capítulo 8
-- [ ] Capítulo 9
-- [ ] Capítulo 10
 - [ ] Capítulo 11
-- [ ] Capítulo 12
 
 # Cursos indicados
 
@@ -30,7 +27,7 @@
 - [x] Governança de TI: conheça os fundamentos da gestão de portfólios
 - [x] Governança de TI: gerencie serviços e fortaleça a segurança
 - [x] Governança de TI: gestão de programas, projetos e produtos
-- [ ] Governança de TI: Gestão de Requisitos no Contexto Ágil
+- [x] Governança de TI: Gestão de Requisitos no Contexto Ágil
 - [ ] Governança de TI: Gestão de Mudanças Organizacionais e de TI
 - [ ] Governança de TI: a importância da Gestão do Conhecimento
 
