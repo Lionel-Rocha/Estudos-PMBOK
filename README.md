@@ -17,7 +17,7 @@
 - [x] Capítulo 6
 - [x] Capítulo 7
 - [ ] Capítulo 8
-- [ ] Capítulo 11
+- [x] Capítulo 11
 
 # Cursos indicados
 
