@@ -16,7 +16,7 @@
 - [x] Capítulo 5
 - [x] Capítulo 6
 - [x] Capítulo 7
-- [ ] Capítulo 8
+- [x] Capítulo 8
 - [x] Capítulo 11
 
 # Cursos indicados
@@ -28,7 +28,7 @@
 - [x] Governança de TI: gerencie serviços e fortaleça a segurança
 - [x] Governança de TI: gestão de programas, projetos e produtos
 - [x] Governança de TI: Gestão de Requisitos no Contexto Ágil
-- [ ] Governança de TI: Gestão de Mudanças Organizacionais e de TI
+- [x] Governança de TI: Gestão de Mudanças Organizacionais e de TI
 - [ ] Governança de TI: a importância da Gestão do Conhecimento
 
  ## YouTube
