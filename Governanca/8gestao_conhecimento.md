@@ -6,6 +6,14 @@ A gestão do conhecimento é uma disciplina estratégica que visa capturar, orga
 
 Gestão do conhecimento não é apenas documentar processos ou armazenar dados; é também criar um ambiente onde o aprendizado contínuo e a troca de experiências entre as pessoas se tornam parte da cultura organizacional.
 
+A partir da gestão do conhecimento podemos ter:
+
+* Possibilidade de tomar decisões mais embasadas em dados e informações precisas;
+* Redução do tempo gasto na busca por informações relevantes;
+* Identificação de oportunidade de melhoria e inovação no negócio;
+* Melhora da qualidade e eficiência dos processos internos;
+* Aumento da segurança das informações e proteção de dados sensíveis.
+
 ---
 
 ## 2. Documentação
