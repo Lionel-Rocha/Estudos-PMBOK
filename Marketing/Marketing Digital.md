@@ -29,7 +29,7 @@ A internet oferece um alcance global, permitindo que empresas atinjam nichos esp
 ### O que é Tráfego Orgânico
 Tráfego orgânico é todo o acesso a um site, blog ou plataforma digital que ocorre de forma natural, sem o uso de anúncios pagos. Ele depende de boas práticas de conteúdo e otimização para mecanismos de busca (SEO).
 
-📌A base do tráfego orgânico é a criação de conteúdo relevante e qualificado para o público-alvo. Para atender essas especificidades, é necessário entender algumas características do seu negócio, como:
+📌 A base do tráfego orgânico é a criação de conteúdo relevante e qualificado para o público-alvo. Para atender essas especificidades, é necessário entender algumas características do seu negócio, como:
 * Quem é o público-alvo ou comunidade;
 * Qual é o segmento de mercado, o objetivo do negócio e o que ele oferece de solução para os usuários;
 * Onde o negócio aparecerá para conseguir o tráfego orgânico, quais plataformas e veículos de comunicação são as mais adequadas para se comunicar com o público.
@@ -51,10 +51,15 @@ Tráfego orgânico é todo o acesso a um site, blog ou plataforma digital que oc
 ### Boas Práticas para o Tráfego Orgânico
 
 📌 Identifique seu público-alvo.
+
 📌 Defina seus objetivos.
+
 📌 Escolha os tópicos certos. Mais importante do que estar nas redes sociais é saber o que a comunidade deseja. 
+
 📌 Otimize seu conteúdo para SEO.
+
 📌 Promova seu conteúdo.
+
 📌 Acompanhe seus resultados.
 
 > O conteúdo orgânico é uma estratégia a longo prazo e requer consistência e dedicação para obter resultados significativos. Mantenha-se atualizado sobre as tendências do seu setor e continue a criar conteúdo relevante e útil para seu público.
@@ -97,6 +102,7 @@ Um bom planejamento começa com a definição clara de objetivos (o que se quer 
 -  **T**emporais
 
 📌 Defina seus objetivos de forma clara, coesa e possível. E lembre-se de definir com detalhes para conseguir mensurar os resultados posteriormente.
+
 📌 Para que o objetivo seja mensurável, é preciso definir KPIs, ou seja, indicadores-chave de sucesso.
 
 ### Pesquisa de Mercado
@@ -154,7 +160,9 @@ O marketing analytics é o processo de coleta, análise e interpretação de dad
 - **Data Studio / Looker**: dashboards personalizados
 
 📌 Qual canal de marketing está gerando mais conversões?
+
 📌 Qual é o perfil demográfico do público-alvo que mais consome meu produto/serviço?
+
 📌 Quais são os dias e horários em que tenho mais engajamento nas redes sociais?
 
 ### Tendências de Mercado
