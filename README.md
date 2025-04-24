@@ -31,8 +31,8 @@
 - [x] Governança de TI: a importância da Gestão do Conhecimento
 
 # Marketing
-- [ ] Marketing Digital: explorando os conceitos
-- [ ] Branding: criando uma marca forte
+- [x] Marketing Digital: explorando os conceitos
+- [x] Branding: criando uma marca forte
 - [ ] Plano de Marketing Digital: como criar e coordenar estratégias
 - [ ] SEO: otimização de sites
 - [ ] Mídias Sociais: estratégias para engajar o público
