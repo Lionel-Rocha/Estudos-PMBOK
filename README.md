@@ -39,9 +39,14 @@
 - [ ] Tipos de lançamentos: estratégias e técnicas para produtos digitais
 - [ ] Neuromarketing: estratégias e ações através do estudo da mente
 
-# Gestão de equipes
-- [ ] 
-
+# Gestão 
+- [ ] Empreendedorismo para Devs: transformando ideias em negócios
+- [ ] Propriedade intelectual: aplicada em Startups e negócios em geral
+- [ ] Startupismo: quando e como buscar investimento
+- [ ] Profissão Tech Lead: conhecendo a liderança técnica
+- [ ] Tech Lead: construindo práticas e rotinas de gestão
+- [ ] Tech Lead: gerindo pessoas e guiando para alta performance
+- [ ] Tech Lead: desenvolvendo habilidades de comunicação
 
 # Cursos soltos
 - [ ] Customer Success
