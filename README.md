@@ -5,7 +5,6 @@
 </div>
 
 # PMBOK - 4ª edição
-
 - [x] Capítulo 1
 - [x] Capítulo 2
 - [x] Capítulo 3
@@ -20,7 +19,6 @@
 - [ ] Capítulo 12
 
 # Governança
-
 - [x] Governança de TI: alinhamento estratégico
 - [x] Governança de TI: modelo de gestão, arquitetura e inovação
 - [x] Governança de TI: conheça os fundamentos da gestão de portfólios
@@ -40,3 +38,10 @@
 - [ ] Instagram para empresas: estratégia e planejamento
 - [ ] Tipos de lançamentos: estratégias e técnicas para produtos digitais
 - [ ] Neuromarketing: estratégias e ações através do estudo da mente
+
+# Gestão de equipes
+- [ ] 
+
+
+# Cursos soltos
+- [ ] Customer Success
