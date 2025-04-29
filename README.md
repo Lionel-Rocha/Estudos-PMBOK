@@ -49,4 +49,4 @@
 - [ ] Tech Lead: desenvolvendo habilidades de comunicação
 
 # Cursos soltos
-- [ ] Customer Success
+- [x] Customer Success
